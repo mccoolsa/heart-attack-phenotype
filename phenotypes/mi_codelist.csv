@@ -1,0 +1,7 @@
+icd_version,code,description,ph1024_component,match,source
+10,I21,Acute myocardial infarction,Death - ICD10; Secondary Care - Diagnosis,prefix,HDR UK Phenotype Library PH1024 v2257
+10,I22,Subsequent myocardial infarction,Death - ICD10,prefix,HDR UK Phenotype Library PH1024 v2257
+10,I23,Certain current complications following acute myocardial infarction,Death - ICD10,prefix,HDR UK Phenotype Library PH1024 v2257
+9,410,Acute myocardial infarction,Death - ICD9,prefix,HDR UK Phenotype Library PH1024 v2257
+9,4110,Other acute and subacute forms of ischemic heart disease ; Postmyocardial infarction syndrome,Death - ICD9,prefix,HDR UK Phenotype Library PH1024 v2257
+9,4297,"Ill-defined descriptions and complications of heart disease ; Certain sequelae of myocardial infarction, not elsewhere classified",Death - ICD9,prefix,HDR UK Phenotype Library PH1024 v2257

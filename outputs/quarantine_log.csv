@@ -1,0 +1,9 @@
+table_name,reason,n_rows
+admissions,admission after death,4
+admissions,discharge before admission,3
+diagnoses_icd,diagnosis without admission,5
+diagnoses_icd,parent admission quarantined,98
+diagnoses_icd,unknown ICD code after normalisation,3
+labevents,parent admission quarantined,2116
+patients,duplicate patient,5
+patients,"impossible age (value nulled, row kept)",3

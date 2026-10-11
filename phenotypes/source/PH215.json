@@ -1,0 +1,4202 @@
+[
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66305,
+    "code": "14A3.00",
+    "description": "H/O: myocardial infarct <60",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "35674",
+      "Category": "History of MI (1)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66306,
+    "code": "14A4.00",
+    "description": "H/O: myocardial infarct >60",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "40399",
+      "Category": "History of MI (1)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66307,
+    "code": "14AH.00",
+    "description": "H/O: Myocardial infarction in last year",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "50372",
+      "Category": "History of MI (1)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66319,
+    "code": "323..00",
+    "description": "ECG: myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "7783",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66320,
+    "code": "3233",
+    "description": "ECG: antero-septal infarct.",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "26975",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66321,
+    "code": "3234",
+    "description": "ECG:posterior/inferior infarct",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "26972",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66322,
+    "code": "3235",
+    "description": "ECG: subendocardial infarct",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "55401",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66323,
+    "code": "3236",
+    "description": "ECG: lateral infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "52705",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66324,
+    "code": "323Z.00",
+    "description": "ECG: myocardial infarct NOS",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "59032",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66325,
+    "code": "889A.00",
+    "description": "Diab mellit insulin-glucose infus acute myocardial infarct",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "61670",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66326,
+    "code": "G30..00",
+    "description": "Acute myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "241",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66331,
+    "code": "G300.00",
+    "description": "Acute anterolateral infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "12139",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66332,
+    "code": "G301.00",
+    "description": "Other specified anterior myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "5387",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66333,
+    "code": "G301000",
+    "description": "Acute anteroapical infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "40429",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66313,
+    "code": "G30..11",
+    "description": "Attack - heart",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "13566",
+      "Category": "Possible MI or uncertain date (2)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66334,
+    "code": "G301100",
+    "description": "Acute anteroseptal infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "17872",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66327,
+    "code": "G30..12",
+    "description": "Coronary thrombosis",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "2491",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66328,
+    "code": "G30..13",
+    "description": "Cardiac rupture following myocardial infarction (MI)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "30421",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66314,
+    "code": "G30..14",
+    "description": "Heart attack",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "1204",
+      "Category": "Possible MI or uncertain date (2)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66329,
+    "code": "G30..15",
+    "description": "MI - acute myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "1677",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66330,
+    "code": "G30..16",
+    "description": "Thrombosis - coronary",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "13571",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66315,
+    "code": "G30..17",
+    "description": "Silent myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "17689",
+      "Category": "Possible MI or uncertain date (2)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66335,
+    "code": "G301z00",
+    "description": "Anterior myocardial infarction NOS",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "14897",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66336,
+    "code": "G302.00",
+    "description": "Acute inferolateral infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "8935",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66337,
+    "code": "G303.00",
+    "description": "Acute inferoposterior infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "29643",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66338,
+    "code": "G304.00",
+    "description": "Posterior myocardial infarction NOS",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "23892",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66339,
+    "code": "G305.00",
+    "description": "Lateral myocardial infarction NOS",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "14898",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66340,
+    "code": "G306.00",
+    "description": "True posterior myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "63467",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66341,
+    "code": "G307.00",
+    "description": "Acute subendocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "3704",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66342,
+    "code": "G307000",
+    "description": "Acute non-Q wave infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "9507",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66318,
+    "code": "G307100",
+    "description": "Acute non-ST segment elevation myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "10562",
+      "Category": "NSTEMI (4)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66343,
+    "code": "G308.00",
+    "description": "Inferior myocardial infarction NOS",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "1678",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66344,
+    "code": "G309.00",
+    "description": "Acute Q-wave infarct",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "30330",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66316,
+    "code": "G30A.00",
+    "description": "Mural thrombosis",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "17133",
+      "Category": "Possible MI or uncertain date (2)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66345,
+    "code": "G30B.00",
+    "description": "Acute posterolateral myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "32854",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66346,
+    "code": "G30X.00",
+    "description": "Acute transmural myocardial infarction of unspecif site",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "29758",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66317,
+    "code": "G30X000",
+    "description": "Acute ST segment elevation myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "12229",
+      "Category": "STEMI (3)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66347,
+    "code": "G30y.00",
+    "description": "Other acute myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "34803",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66348,
+    "code": "G30y000",
+    "description": "Acute atrial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "28736",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66349,
+    "code": "G30y100",
+    "description": "Acute papillary muscle infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "62626",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66350,
+    "code": "G30y200",
+    "description": "Acute septal infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "41221",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66351,
+    "code": "G30yz00",
+    "description": "Other acute myocardial infarction NOS",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "46017",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66352,
+    "code": "G30z.00",
+    "description": "Acute myocardial infarction NOS",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "14658",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66308,
+    "code": "G310.00",
+    "description": "Postmyocardial infarction syndrome",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "23579",
+      "Category": "History of MI (1)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66365,
+    "code": "G310.11",
+    "description": "Dressler's syndrome",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "15661",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66353,
+    "code": "G31y100",
+    "description": "Microinfarction of heart",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "68357",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66309,
+    "code": "G32..00",
+    "description": "Old myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "4017",
+      "Category": "History of MI (1)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66310,
+    "code": "G32..11",
+    "description": "Healed myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "16408",
+      "Category": "History of MI (1)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66311,
+    "code": "G32..12",
+    "description": "Personal history of myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "17464",
+      "Category": "History of MI (1)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66312,
+    "code": "G33z500",
+    "description": "Post infarct angina",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "9555",
+      "Category": "History of MI (1)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66360,
+    "code": "G35..00",
+    "description": "Subsequent myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "18842",
+      "Category": "Subsequent MI (6)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66361,
+    "code": "G350.00",
+    "description": "Subsequent myocardial infarction of anterior wall",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "45809",
+      "Category": "Subsequent MI (6)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66362,
+    "code": "G351.00",
+    "description": "Subsequent myocardial infarction of inferior wall",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "38609",
+      "Category": "Subsequent MI (6)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66363,
+    "code": "G353.00",
+    "description": "Subsequent myocardial infarction of other sites",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "72562",
+      "Category": "Subsequent MI (6)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66364,
+    "code": "G35X.00",
+    "description": "Subsequent myocardial infarction of unspecified site",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "46166",
+      "Category": "Subsequent MI (6)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66366,
+    "code": "G36..00",
+    "description": "Certain current complication follow acute myocardial infarct",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "36423",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66367,
+    "code": "G360.00",
+    "description": "Haemopericardium/current comp folow acut myocard infarct",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "24126",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66368,
+    "code": "G361.00",
+    "description": "Atrial septal defect/curr comp folow acut myocardal infarct",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "23708",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66369,
+    "code": "G362.00",
+    "description": "Ventric septal defect/curr comp fol acut myocardal infarctn",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "37657",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66370,
+    "code": "G363.00",
+    "description": "Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "59189",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66371,
+    "code": "G364.00",
+    "description": "Ruptur chordae tendinae/curr comp fol acute myocard infarct",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "59940",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66372,
+    "code": "G365.00",
+    "description": "Rupture papillary muscle/curr comp fol acute myocard infarct",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "69474",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66373,
+    "code": "G366.00",
+    "description": "Thrombosis atrium,auric append&vent/curr comp foll acute MI",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "29553",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66354,
+    "code": "G38..00",
+    "description": "Postoperative myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "32272",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66355,
+    "code": "G380.00",
+    "description": "Postoperative transmural myocardial infarction anterior wall",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "46112",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66356,
+    "code": "G381.00",
+    "description": "Postoperative transmural myocardial infarction inferior wall",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "46276",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66357,
+    "code": "G384.00",
+    "description": "Postoperative subendocardial myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "41835",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66358,
+    "code": "G38z.00",
+    "description": "Postoperative myocardial infarction, unspecified",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "68748",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66374,
+    "code": "G501.00",
+    "description": "Post infarction pericarditis",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "35119",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1296,
+    "concept_history_id": 3731,
+    "concept_history_date": "2021-10-06T16:08:04.401992Z",
+    "component_id": 1500,
+    "component_history_id": 2187,
+    "logical_type": 1,
+    "codelist_id": 1500,
+    "codelist_history_id": 2133,
+    "id": 66359,
+    "code": "Gyu3400",
+    "description": "[X]Acute transmural myocardial infarction of unspecif site",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Medcode": "96838",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3731,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66388,
+    "code": "10562",
+    "description": "NSTEMI (4)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute non-ST segment elevation myocardial infarction",
+      "Readcode": "G307100"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66384,
+    "code": "1204",
+    "description": "Possible MI or uncertain date (2)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Heart attack",
+      "Readcode": "G30..14"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66401,
+    "code": "12139",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute anterolateral infarction",
+      "Readcode": "G300.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66387,
+    "code": "12229",
+    "description": "STEMI (3)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute ST segment elevation myocardial infarction",
+      "Readcode": "G30X000"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66383,
+    "code": "13566",
+    "description": "Possible MI or uncertain date (2)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Attack - heart",
+      "Readcode": "G30..11"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66400,
+    "code": "13571",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Thrombosis - coronary",
+      "Readcode": "G30..16"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66422,
+    "code": "14658",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute myocardial infarction NOS",
+      "Readcode": "G30z.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66405,
+    "code": "14897",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Anterior myocardial infarction NOS",
+      "Readcode": "G301z00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66409,
+    "code": "14898",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Lateral myocardial infarction NOS",
+      "Readcode": "G305.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66435,
+    "code": "15661",
+    "description": "Complications of MI (7)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Dressler's syndrome",
+      "Readcode": "G310.11"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66380,
+    "code": "16408",
+    "description": "History of MI (1)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Healed myocardial infarction",
+      "Readcode": "G32..11"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66399,
+    "code": "1677",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "MI - acute myocardial infarction",
+      "Readcode": "G30..15"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66413,
+    "code": "1678",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Inferior myocardial infarction NOS",
+      "Readcode": "G308.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66386,
+    "code": "17133",
+    "description": "Possible MI or uncertain date (2)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Mural thrombosis",
+      "Readcode": "G30A.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66381,
+    "code": "17464",
+    "description": "History of MI (1)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Personal history of myocardial infarction",
+      "Readcode": "G32..12"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66385,
+    "code": "17689",
+    "description": "Possible MI or uncertain date (2)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Silent myocardial infarction",
+      "Readcode": "G30..17"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66404,
+    "code": "17872",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute anteroseptal infarction",
+      "Readcode": "G301100"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66430,
+    "code": "18842",
+    "description": "Subsequent MI (6)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Subsequent myocardial infarction",
+      "Readcode": "G35..00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66378,
+    "code": "23579",
+    "description": "History of MI (1)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Postmyocardial infarction syndrome",
+      "Readcode": "G310.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66438,
+    "code": "23708",
+    "description": "Complications of MI (7)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Atrial septal defect/curr comp folow acut myocardal infarct",
+      "Readcode": "G361.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66408,
+    "code": "23892",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Posterior myocardial infarction NOS",
+      "Readcode": "G304.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66396,
+    "code": "241",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute myocardial infarction",
+      "Readcode": "G30..00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66437,
+    "code": "24126",
+    "description": "Complications of MI (7)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Haemopericardium/current comp folow acut myocard infarct",
+      "Readcode": "G360.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66397,
+    "code": "2491",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Coronary thrombosis",
+      "Readcode": "G30..12"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66391,
+    "code": "26972",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "ECG:posterior/inferior infarct",
+      "Readcode": "3234"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66390,
+    "code": "26975",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "ECG: antero-septal infarct.",
+      "Readcode": "3233"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66418,
+    "code": "28736",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute atrial infarction",
+      "Readcode": "G30y000"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66443,
+    "code": "29553",
+    "description": "Complications of MI (7)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Thrombosis atrium,auric append&vent/curr comp foll acute MI",
+      "Readcode": "G366.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66407,
+    "code": "29643",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute inferoposterior infarction",
+      "Readcode": "G303.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66416,
+    "code": "29758",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute transmural myocardial infarction of unspecif site",
+      "Readcode": "G30X.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66414,
+    "code": "30330",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute Q-wave infarct",
+      "Readcode": "G309.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66398,
+    "code": "30421",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Cardiac rupture following myocardial infarction (MI)",
+      "Readcode": "G30..13"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66424,
+    "code": "32272",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Postoperative myocardial infarction",
+      "Readcode": "G38..00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66415,
+    "code": "32854",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute posterolateral myocardial infarction",
+      "Readcode": "G30B.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66417,
+    "code": "34803",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Other acute myocardial infarction",
+      "Readcode": "G30y.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66444,
+    "code": "35119",
+    "description": "Complications of MI (7)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Post infarction pericarditis",
+      "Readcode": "G501.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66375,
+    "code": "35674",
+    "description": "History of MI (1)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "H/O: myocardial infarct <60",
+      "Readcode": "14A3.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66436,
+    "code": "36423",
+    "description": "Complications of MI (7)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Certain current complication follow acute myocardial infarct",
+      "Readcode": "G36..00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66411,
+    "code": "3704",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute subendocardial infarction",
+      "Readcode": "G307.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66439,
+    "code": "37657",
+    "description": "Complications of MI (7)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Ventric septal defect/curr comp fol acut myocardal infarctn",
+      "Readcode": "G362.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66432,
+    "code": "38609",
+    "description": "Subsequent MI (6)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Subsequent myocardial infarction of inferior wall",
+      "Readcode": "G351.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66379,
+    "code": "4017",
+    "description": "History of MI (1)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Old myocardial infarction",
+      "Readcode": "G32..00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66376,
+    "code": "40399",
+    "description": "History of MI (1)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "H/O: myocardial infarct >60",
+      "Readcode": "14A4.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66403,
+    "code": "40429",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute anteroapical infarction",
+      "Readcode": "G301000"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66420,
+    "code": "41221",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute septal infarction",
+      "Readcode": "G30y200"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66427,
+    "code": "41835",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Postoperative subendocardial myocardial infarction",
+      "Readcode": "G384.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66431,
+    "code": "45809",
+    "description": "Subsequent MI (6)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Subsequent myocardial infarction of anterior wall",
+      "Readcode": "G350.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66421,
+    "code": "46017",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Other acute myocardial infarction NOS",
+      "Readcode": "G30yz00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66425,
+    "code": "46112",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Postoperative transmural myocardial infarction anterior wall",
+      "Readcode": "G380.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66434,
+    "code": "46166",
+    "description": "Subsequent MI (6)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Subsequent myocardial infarction of unspecified site",
+      "Readcode": "G35X.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66426,
+    "code": "46276",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Postoperative transmural myocardial infarction inferior wall",
+      "Readcode": "G381.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66377,
+    "code": "50372",
+    "description": "History of MI (1)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "H/O: Myocardial infarction in last year",
+      "Readcode": "14AH.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66393,
+    "code": "52705",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "ECG: lateral infarction",
+      "Readcode": "3236"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66402,
+    "code": "5387",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Other specified anterior myocardial infarction",
+      "Readcode": "G301.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66392,
+    "code": "55401",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "ECG: subendocardial infarct",
+      "Readcode": "3235"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66394,
+    "code": "59032",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "ECG: myocardial infarct NOS",
+      "Readcode": "323Z.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66440,
+    "code": "59189",
+    "description": "Complications of MI (7)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI",
+      "Readcode": "G363.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66441,
+    "code": "59940",
+    "description": "Complications of MI (7)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Ruptur chordae tendinae/curr comp fol acute myocard infarct",
+      "Readcode": "G364.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66395,
+    "code": "61670",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Diab mellit insulin-glucose infus acute myocardial infarct",
+      "Readcode": "889A.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66419,
+    "code": "62626",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute papillary muscle infarction",
+      "Readcode": "G30y100"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66410,
+    "code": "63467",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "True posterior myocardial infarction",
+      "Readcode": "G306.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66423,
+    "code": "68357",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Microinfarction of heart",
+      "Readcode": "G31y100"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66428,
+    "code": "68748",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Postoperative myocardial infarction, unspecified",
+      "Readcode": "G38z.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66442,
+    "code": "69474",
+    "description": "Complications of MI (7)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Rupture papillary muscle/curr comp fol acute myocard infarct",
+      "Readcode": "G365.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66433,
+    "code": "72562",
+    "description": "Subsequent MI (6)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Subsequent myocardial infarction of other sites",
+      "Readcode": "G353.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66389,
+    "code": "7783",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "ECG: myocardial infarction",
+      "Readcode": "323..00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66406,
+    "code": "8935",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute inferolateral infarction",
+      "Readcode": "G302.00"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66412,
+    "code": "9507",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Acute non-Q wave infarction",
+      "Readcode": "G307000"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66382,
+    "code": "9555",
+    "description": "History of MI (1)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "Post infarct angina",
+      "Readcode": "G33z500"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1297,
+    "concept_history_id": 3733,
+    "concept_history_date": "2021-10-06T16:08:05.401761Z",
+    "component_id": 1501,
+    "component_history_id": 2188,
+    "logical_type": 1,
+    "codelist_id": 1501,
+    "codelist_history_id": 2134,
+    "id": 66429,
+    "code": "96838",
+    "description": "Acute MI not further specified (5)",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "ReadcodeDescr": "[X]Acute transmural myocardial infarction of unspecif site",
+      "Readcode": "Gyu3400"
+    },
+    "rn": 1,
+    "concept_version_id": 3733,
+    "concept_name": "Myocardial infarction - Primary care",
+    "coding_system": {
+      "id": 8,
+      "name": "Med codes",
+      "description": "Med codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1298,
+    "concept_history_id": 3735,
+    "concept_history_date": "2021-10-06T16:08:05.759721Z",
+    "component_id": 1502,
+    "component_history_id": 2189,
+    "logical_type": 1,
+    "codelist_id": 1502,
+    "codelist_history_id": 2135,
+    "id": 66446,
+    "code": "I21",
+    "description": "Acute myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Category": "Acute MI not further specified (5)"
+    },
+    "rn": 1,
+    "concept_version_id": 3735,
+    "concept_name": "Myocardial infarction - Secondary care - Diagnoses",
+    "coding_system": {
+      "id": 4,
+      "name": "ICD10 codes",
+      "description": "ICD10 Codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1298,
+    "concept_history_id": 3735,
+    "concept_history_date": "2021-10-06T16:08:05.759721Z",
+    "component_id": 1502,
+    "component_history_id": 2189,
+    "logical_type": 1,
+    "codelist_id": 1502,
+    "codelist_history_id": 2135,
+    "id": 66447,
+    "code": "I22",
+    "description": "Subsequent myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Category": "Subsequent MI (6)"
+    },
+    "rn": 1,
+    "concept_version_id": 3735,
+    "concept_name": "Myocardial infarction - Secondary care - Diagnoses",
+    "coding_system": {
+      "id": 4,
+      "name": "ICD10 codes",
+      "description": "ICD10 Codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1298,
+    "concept_history_id": 3735,
+    "concept_history_date": "2021-10-06T16:08:05.759721Z",
+    "component_id": 1502,
+    "component_history_id": 2189,
+    "logical_type": 1,
+    "codelist_id": 1502,
+    "codelist_history_id": 2135,
+    "id": 66448,
+    "code": "I23",
+    "description": "Certain current complications following acute myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3735,
+    "concept_name": "Myocardial infarction - Secondary care - Diagnoses",
+    "coding_system": {
+      "id": 4,
+      "name": "ICD10 codes",
+      "description": "ICD10 Codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1298,
+    "concept_history_id": 3735,
+    "concept_history_date": "2021-10-06T16:08:05.759721Z",
+    "component_id": 1502,
+    "component_history_id": 2189,
+    "logical_type": 1,
+    "codelist_id": 1502,
+    "codelist_history_id": 2135,
+    "id": 66449,
+    "code": "I241",
+    "description": "Dressler's syndrome",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Category": "Complications of MI (7)"
+    },
+    "rn": 1,
+    "concept_version_id": 3735,
+    "concept_name": "Myocardial infarction - Secondary care - Diagnoses",
+    "coding_system": {
+      "id": 4,
+      "name": "ICD10 codes",
+      "description": "ICD10 Codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  },
+  {
+    "concept_id": 1298,
+    "concept_history_id": 3735,
+    "concept_history_date": "2021-10-06T16:08:05.759721Z",
+    "component_id": 1502,
+    "component_history_id": 2189,
+    "logical_type": 1,
+    "codelist_id": 1502,
+    "codelist_history_id": 2135,
+    "id": 66445,
+    "code": "I252",
+    "description": "Old myocardial infarction",
+    "attributes": {
+      "Disease": "Myocardial infarction",
+      "Category": "History of MI (1)"
+    },
+    "rn": 1,
+    "concept_version_id": 3735,
+    "concept_name": "Myocardial infarction - Secondary care - Diagnoses",
+    "coding_system": {
+      "id": 4,
+      "name": "ICD10 codes",
+      "description": "ICD10 Codes"
+    },
+    "phenotype_id": "PH215",
+    "phenotype_version_id": 430,
+    "phenotype_name": "Myocardial infarction"
+  }
+]

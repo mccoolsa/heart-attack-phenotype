@@ -1,0 +1,30 @@
+error_type,table,_row_id,expected_check,detail
+duplicate_patient,patients,101,duplicate_patients,copy of patients row 82
+duplicate_patient,patients,102,duplicate_patients,copy of patients row 15
+duplicate_patient,patients,103,duplicate_patients,copy of patients row 4
+duplicate_patient,patients,104,duplicate_patients,copy of patients row 95
+duplicate_patient,patients,105,duplicate_patients,copy of patients row 36
+admission_after_death,admissions,49,after_death_admissions,admittime set to dod + 30 days
+admission_after_death,admissions,57,after_death_admissions,admittime set to dod + 30 days
+admission_after_death,admissions,76,after_death_admissions,admittime set to dod + 30 days
+admission_after_death,admissions,79,after_death_admissions,admittime set to dod + 30 days
+discharge_before_admission,admissions,45,time_order_admissions,admittime and dischtime swapped
+discharge_before_admission,admissions,221,time_order_admissions,admittime and dischtime swapped
+discharge_before_admission,admissions,17,time_order_admissions,admittime and dischtime swapped
+impossible_age,patients,4,age_range_patients,anchor_age set to -4
+impossible_age,patients,12,age_range_patients,anchor_age set to 150
+impossible_age,patients,28,age_range_patients,anchor_age set to None
+malformed_icd_code,diagnoses_icd,379,icd_format_diagnoses_icd,'I214' -> 'I21.4' (MI code)
+malformed_icd_code,diagnoses_icd,2227,icd_format_diagnoses_icd,'I214' -> 'i214' (MI code)
+malformed_icd_code,diagnoses_icd,2909,icd_format_diagnoses_icd,'I214' -> 'I214 ' (MI code)
+malformed_icd_code,diagnoses_icd,218,icd_format_diagnoses_icd,'J9811' -> 'J98.11'
+malformed_icd_code,diagnoses_icd,1636,icd_format_diagnoses_icd,'29570' -> '295.70'
+malformed_icd_code,diagnoses_icd,4477,icd_format_diagnoses_icd,'5849' -> '5849 '
+unknown_icd_code,diagnoses_icd,3447,icd_known_diagnoses_icd,'R002' -> 'RO02'
+unknown_icd_code,diagnoses_icd,1813,icd_known_diagnoses_icd,'E785' -> 'E78Z'
+unknown_icd_code,diagnoses_icd,3690,icd_known_diagnoses_icd,'V4582' -> 'V458Z'
+unlinked_diagnosis,diagnoses_icd,2291,orphan_diagnoses_icd_hadm_id,hadm_id set to 99000000
+unlinked_diagnosis,diagnoses_icd,54,orphan_diagnoses_icd_hadm_id,hadm_id set to 99000001
+unlinked_diagnosis,diagnoses_icd,1316,orphan_diagnoses_icd_hadm_id,hadm_id set to 99000002
+unlinked_diagnosis,diagnoses_icd,3477,orphan_diagnoses_icd_hadm_id,hadm_id set to 99000003
+unlinked_diagnosis,diagnoses_icd,2800,orphan_diagnoses_icd_hadm_id,hadm_id set to 99000004

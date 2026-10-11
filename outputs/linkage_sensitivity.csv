@@ -1,0 +1,3 @@
+troponin_linkage,troponin_rows_linked,admissions_tested,coded_mi_admissions_tested,coded_mi_admissions_trop_pos,patients_codes_and_troponin,patients_codes_only,patients_troponin_only
+strict hadm_id,197,83,10,8,7,4,6
+hadm_id + 24h window,262,106,11,8,7,4,6

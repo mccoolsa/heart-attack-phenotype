@@ -1,0 +1,14 @@
+check,table,rule,n_checked,n_failed,pct_failed,status
+duplicate_patients,patients,unique on (subject_id),100,0,0.0,PASS
+duplicate_admissions,admissions,unique on (hadm_id),275,0,0.0,PASS
+duplicate_diagnoses_icd,diagnoses_icd,"unique on (hadm_id, seq_num)",4506,0,0.0,PASS
+orphan_admissions_subject_id,admissions,subject_id links to patients,275,0,0.0,PASS
+orphan_diagnoses_icd_hadm_id,diagnoses_icd,hadm_id links to admissions,4506,0,0.0,PASS
+orphan_labevents_hadm_id,labevents,hadm_id links to admissions,107727,0,0.0,PASS
+after_death_admissions,admissions,admittime <= dod + 0d,275,0,0.0,PASS
+after_death_labevents,labevents,charttime <= dod + 0d,107727,0,0.0,PASS
+time_order_admissions,admissions,admittime <= dischtime,275,0,0.0,PASS
+age_range_patients,patients,"0 <= anchor_age <= 120, not null",100,0,0.0,PASS
+icd_format_diagnoses_icd,diagnoses_icd,matches ICD-9/10 code pattern,4506,0,0.0,PASS
+icd_known_diagnoses_icd,diagnoses_icd,code exists in d_icd_diagnoses,4506,0,0.0,PASS
+non_numeric_labevents_51003,labevents,itemid 51003 has valuenum,278,145,52.16,FAIL

@@ -1,0 +1,6 @@
+data/raw/
+__pycache__/
+*.pyc
+.pytest_cache/
+outputs/run_log.txt
+Heart Attack Phenotype - Project Overview.md

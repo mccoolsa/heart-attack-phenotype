@@ -1,0 +1,61 @@
+{
+  "data_dir": "data/raw/mimic-iv-demo-2.2/hosp",
+  "patients": 100,
+  "admissions": 275,
+  "icd9_admissions": 152,
+  "icd10_admissions": 123,
+  "mi_patients_code_any": 11,
+  "mi_patients_code_primary": 6,
+  "mi_patients_troponin_pos": 13,
+  "mi_patients_any_evidence": 17,
+  "overlap": {
+    "codes + troponin": 7,
+    "codes only": 4,
+    "troponin only": 6
+  },
+  "coded_admissions": 12,
+  "coded_admissions_tested": 11,
+  "coded_admissions_trop_pos": 8,
+  "trop_pos_admissions": 16,
+  "trop_pos_admissions_coded": 8,
+  "tested_admissions": 106,
+  "troponin_rows": 278,
+  "troponin_text_only_rows": 145,
+  "troponin_patients": 59,
+  "troponin_rows_no_hadm": 81,
+  "linkage_sensitivity": [
+    {
+      "troponin_linkage": "strict hadm_id",
+      "troponin_rows_linked": 197,
+      "admissions_tested": 83,
+      "coded_mi_admissions_tested": 10,
+      "coded_mi_admissions_trop_pos": 8,
+      "patients_codes_and_troponin": 7,
+      "patients_codes_only": 4,
+      "patients_troponin_only": 6
+    },
+    {
+      "troponin_linkage": "hadm_id + 24h window",
+      "troponin_rows_linked": 262,
+      "admissions_tested": 106,
+      "coded_mi_admissions_tested": 11,
+      "coded_mi_admissions_trop_pos": 8,
+      "patients_codes_and_troponin": 7,
+      "patients_codes_only": 4,
+      "patients_troponin_only": 6
+    }
+  ],
+  "labevents_no_hadm_share": 0.2638,
+  "coded_mi_died_within_30d": 3,
+  "coded_mi_died_within_1y": 3,
+  "checks_failing_real": [
+    "non_numeric_labevents_51003"
+  ],
+  "planted_total": 29,
+  "planted_found": 29,
+  "cleaning_effect": {
+    "real (as published)": 11,
+    "with planted errors": 10,
+    "after cleaning": 11
+  }
+}

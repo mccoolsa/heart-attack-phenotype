@@ -1,0 +1,8 @@
+error_type,expected_check,planted,found,missed,pre_existing,cross,extra
+duplicate_patient,duplicate_patients,5,5,0,0,0,0
+admission_after_death,after_death_admissions,4,4,0,0,0,0
+discharge_before_admission,time_order_admissions,3,3,0,0,0,0
+impossible_age,age_range_patients,3,3,0,0,0,0
+malformed_icd_code,icd_format_diagnoses_icd,6,6,0,0,2,0
+unknown_icd_code,icd_known_diagnoses_icd,3,3,0,0,6,0
+unlinked_diagnosis,orphan_diagnoses_icd_hadm_id,5,5,0,0,0,0

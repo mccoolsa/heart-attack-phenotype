@@ -1,0 +1,1406 @@
+[
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249241,
+    "code": "323..00",
+    "description": "ECG: myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249242,
+    "code": "3233",
+    "description": "ECG: antero-septal infarct.",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249243,
+    "code": "3234",
+    "description": "ECG:posterior/inferior infarct",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249244,
+    "code": "3235",
+    "description": "ECG: subendocardial infarct",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249245,
+    "code": "3236",
+    "description": "ECG: lateral infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249246,
+    "code": "323Z.00",
+    "description": "ECG: myocardial infarct NOS",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249247,
+    "code": "889A.00",
+    "description": "Diab mellit insulin-glucose infus acute myocardial infarct",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249248,
+    "code": "G30..00",
+    "description": "Acute myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249253,
+    "code": "G300.00",
+    "description": "Acute anterolateral infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249254,
+    "code": "G301.00",
+    "description": "Other specified anterior myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249255,
+    "code": "G301000",
+    "description": "Acute anteroapical infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249256,
+    "code": "G301100",
+    "description": "Acute anteroseptal infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249249,
+    "code": "G30..12",
+    "description": "Coronary thrombosis",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249250,
+    "code": "G30..13",
+    "description": "Cardiac rupture following myocardial infarction (MI)",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249251,
+    "code": "G30..15",
+    "description": "MI - acute myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249252,
+    "code": "G30..16",
+    "description": "Thrombosis - coronary",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249257,
+    "code": "G301z00",
+    "description": "Anterior myocardial infarction NOS",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249258,
+    "code": "G302.00",
+    "description": "Acute inferolateral infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249259,
+    "code": "G303.00",
+    "description": "Acute inferoposterior infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249260,
+    "code": "G304.00",
+    "description": "Posterior myocardial infarction NOS",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249261,
+    "code": "G305.00",
+    "description": "Lateral myocardial infarction NOS",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249262,
+    "code": "G306.00",
+    "description": "True posterior myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249263,
+    "code": "G307.00",
+    "description": "Acute subendocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249264,
+    "code": "G307000",
+    "description": "Acute non-Q wave infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249240,
+    "code": "G307100",
+    "description": "Acute non-ST segment elevation myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "NSTEMI"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249265,
+    "code": "G308.00",
+    "description": "Inferior myocardial infarction NOS",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249266,
+    "code": "G309.00",
+    "description": "Acute Q-wave infarct",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249267,
+    "code": "G30B.00",
+    "description": "Acute posterolateral myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249268,
+    "code": "G30X.00",
+    "description": "Acute transmural myocardial infarction of unspecif site",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249239,
+    "code": "G30X000",
+    "description": "Acute ST segment elevation myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "STEMI"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249269,
+    "code": "G30y.00",
+    "description": "Other acute myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249270,
+    "code": "G30y000",
+    "description": "Acute atrial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249271,
+    "code": "G30y100",
+    "description": "Acute papillary muscle infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249272,
+    "code": "G30y200",
+    "description": "Acute septal infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249273,
+    "code": "G30yz00",
+    "description": "Other acute myocardial infarction NOS",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249274,
+    "code": "G30z.00",
+    "description": "Acute myocardial infarction NOS",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249275,
+    "code": "G31y100",
+    "description": "Microinfarction of heart",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249276,
+    "code": "G38..00",
+    "description": "Postoperative myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249277,
+    "code": "G380.00",
+    "description": "Postoperative transmural myocardial infarction anterior wall",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249278,
+    "code": "G381.00",
+    "description": "Postoperative transmural myocardial infarction inferior wall",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249279,
+    "code": "G384.00",
+    "description": "Postoperative subendocardial myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249280,
+    "code": "G38z.00",
+    "description": "Postoperative myocardial infarction, unspecified",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3170,
+    "concept_history_id": 8499,
+    "concept_history_date": "2022-08-23T11:24:03.415352Z",
+    "component_id": 3773,
+    "component_history_id": 5092,
+    "logical_type": 1,
+    "codelist_id": 3773,
+    "codelist_history_id": 4987,
+    "id": 249281,
+    "code": "Gyu3400",
+    "description": "[X]Acute transmural myocardial infarction of unspecif site",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8499,
+    "concept_name": "File - Acute Myocardial Infarction - Primary Care",
+    "coding_system": {
+      "id": 5,
+      "name": "Read codes v2",
+      "description": "Read codes v2"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3171,
+    "concept_history_id": 8501,
+    "concept_history_date": "2022-08-23T11:24:03.758826Z",
+    "component_id": 3774,
+    "component_history_id": 5093,
+    "logical_type": 1,
+    "codelist_id": 3774,
+    "codelist_history_id": 4988,
+    "id": 249282,
+    "code": "I21",
+    "description": "Acute myocardial infarction",
+    "attributes": {
+      "CALIBER.Category": "Acute MI not further specified"
+    },
+    "rn": 1,
+    "concept_version_id": 8501,
+    "concept_name": "File - Acute Myocardial Infarction - Secondary Care - Diagnosis",
+    "coding_system": {
+      "id": 4,
+      "name": "ICD10 codes",
+      "description": "ICD10 Codes"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3172,
+    "concept_history_id": 8503,
+    "concept_history_date": "2022-08-23T11:24:04.102250Z",
+    "component_id": 3775,
+    "component_history_id": 5094,
+    "logical_type": 1,
+    "codelist_id": 3775,
+    "codelist_history_id": 4989,
+    "id": 249283,
+    "code": "K50.2",
+    "description": "Percutaneous transluminal coronary thrombolysis using streptokinase",
+    "attributes": {
+      "CALIBER.Category": "Transluminal coronary thrombolysis"
+    },
+    "rn": 1,
+    "concept_version_id": 8503,
+    "concept_name": "File - Acute Myocardial Infarction - Secondary Care - Diagnosis",
+    "coding_system": {
+      "id": 7,
+      "name": "OPCS4 codes",
+      "description": "OPCS4 codes"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3172,
+    "concept_history_id": 8503,
+    "concept_history_date": "2022-08-23T11:24:04.102250Z",
+    "component_id": 3775,
+    "component_history_id": 5094,
+    "logical_type": 1,
+    "codelist_id": 3775,
+    "codelist_history_id": 4989,
+    "id": 249284,
+    "code": "K50.3",
+    "description": "Percutaneous transluminal injection of therapeutic substance into coronary artery NEC",
+    "attributes": {
+      "CALIBER.Category": "Transluminal coronary thrombolysis"
+    },
+    "rn": 1,
+    "concept_version_id": 8503,
+    "concept_name": "File - Acute Myocardial Infarction - Secondary Care - Diagnosis",
+    "coding_system": {
+      "id": 7,
+      "name": "OPCS4 codes",
+      "description": "OPCS4 codes"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3173,
+    "concept_history_id": 8505,
+    "concept_history_date": "2022-08-23T11:24:04.459974Z",
+    "component_id": 3776,
+    "component_history_id": 5095,
+    "logical_type": 1,
+    "codelist_id": 3776,
+    "codelist_history_id": 4990,
+    "id": 249285,
+    "code": "410",
+    "description": "Acute myocardial infarction",
+    "attributes": {
+      "category": "Myocardial infarction"
+    },
+    "rn": 1,
+    "concept_version_id": 8505,
+    "concept_name": "File - Acute Myocardial Infarction - Death - ICD9",
+    "coding_system": {
+      "id": 17,
+      "name": "ICD9 codes",
+      "description": "ICD9 codes"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3173,
+    "concept_history_id": 8505,
+    "concept_history_date": "2022-08-23T11:24:04.459974Z",
+    "component_id": 3776,
+    "component_history_id": 5095,
+    "logical_type": 1,
+    "codelist_id": 3776,
+    "codelist_history_id": 4990,
+    "id": 249286,
+    "code": "4110",
+    "description": "Other acute and subacute forms of ischemic heart disease ; Postmyocardial infarction syndrome",
+    "attributes": {
+      "category": "Myocardial infarction"
+    },
+    "rn": 1,
+    "concept_version_id": 8505,
+    "concept_name": "File - Acute Myocardial Infarction - Death - ICD9",
+    "coding_system": {
+      "id": 17,
+      "name": "ICD9 codes",
+      "description": "ICD9 codes"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3173,
+    "concept_history_id": 8505,
+    "concept_history_date": "2022-08-23T11:24:04.459974Z",
+    "component_id": 3776,
+    "component_history_id": 5095,
+    "logical_type": 1,
+    "codelist_id": 3776,
+    "codelist_history_id": 4990,
+    "id": 249287,
+    "code": "4297",
+    "description": "Ill-defined descriptions and complications of heart disease ; Certain sequelae of myocardial infarction, not elsewhere classified",
+    "attributes": {
+      "category": "Myocardial infarction"
+    },
+    "rn": 1,
+    "concept_version_id": 8505,
+    "concept_name": "File - Acute Myocardial Infarction - Death - ICD9",
+    "coding_system": {
+      "id": 17,
+      "name": "ICD9 codes",
+      "description": "ICD9 codes"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3174,
+    "concept_history_id": 8507,
+    "concept_history_date": "2022-08-23T11:24:04.833777Z",
+    "component_id": 3777,
+    "component_history_id": 5096,
+    "logical_type": 1,
+    "codelist_id": 3777,
+    "codelist_history_id": 4991,
+    "id": 249288,
+    "code": "I21",
+    "description": "Acute myocardial infarction",
+    "attributes": {
+      "category": "Myocardial Infarction"
+    },
+    "rn": 1,
+    "concept_version_id": 8507,
+    "concept_name": "File - Acute Myocardial Infarction - Death - ICD10",
+    "coding_system": {
+      "id": 4,
+      "name": "ICD10 codes",
+      "description": "ICD10 Codes"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3174,
+    "concept_history_id": 8507,
+    "concept_history_date": "2022-08-23T11:24:04.833777Z",
+    "component_id": 3777,
+    "component_history_id": 5096,
+    "logical_type": 1,
+    "codelist_id": 3777,
+    "codelist_history_id": 4991,
+    "id": 249289,
+    "code": "I22",
+    "description": "Subsequent myocardial infarction",
+    "attributes": {
+      "category": "Myocardial Infarction"
+    },
+    "rn": 1,
+    "concept_version_id": 8507,
+    "concept_name": "File - Acute Myocardial Infarction - Death - ICD10",
+    "coding_system": {
+      "id": 4,
+      "name": "ICD10 codes",
+      "description": "ICD10 Codes"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  },
+  {
+    "concept_id": 3174,
+    "concept_history_id": 8507,
+    "concept_history_date": "2022-08-23T11:24:04.833777Z",
+    "component_id": 3777,
+    "component_history_id": 5096,
+    "logical_type": 1,
+    "codelist_id": 3777,
+    "codelist_history_id": 4991,
+    "id": 249290,
+    "code": "I23",
+    "description": "Certain current complications following acute myocardial infarction",
+    "attributes": {
+      "category": "Myocardial Infarction"
+    },
+    "rn": 1,
+    "concept_version_id": 8507,
+    "concept_name": "File - Acute Myocardial Infarction - Death - ICD10",
+    "coding_system": {
+      "id": 4,
+      "name": "ICD10 codes",
+      "description": "ICD10 Codes"
+    },
+    "phenotype_id": "PH1024",
+    "phenotype_version_id": 2257,
+    "phenotype_name": "Acute Myocardial Infarction (AMI)"
+  }
+]
